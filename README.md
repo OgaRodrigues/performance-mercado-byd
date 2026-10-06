@@ -151,5 +151,5 @@ Abaixo está o comportamento do layout desenvolvido, aplicando tratamento de con
 
 ### Insights Técnicos Aplicados na Interface:
 *   **Parâmetros de Campo (Field Parameters):** Tabela de ranking dinâmico configurada para se autoajustar trocando colunas físicas entre agrupamentos por **Trimestres Consolidados** ou **Período Total (Ano)** com um clique.
-*   **Formatação Condicional Avançada:** Ícones de setas e cores na tabela principal vinculados exclusivamente à medida de bastidor (`Evolucao_Ranking`), enquanto os números exibem estritamente a posição real fixa do ranking (`Top 10`).
+*   **Formatação Condicional Avançada:** Ícones de setas e cores na tabela principal vinculados exclusivamente à medida de bastidor (`Evolucao_Ranking`), enquanto os números exibem estritamente a posição real fixa do ranking.
 *   **Análise 80/20 de Portfólio:** Gráfico de barras horizontais destaca a concentração de vendas da fabricante em produtos específicos de entrada.
